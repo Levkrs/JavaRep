@@ -1,4 +1,4 @@
-// 1
+// 1 -
 
 "use strict"
 	let tempС = prompt("Введите температуру в градусах цельсия - ");
@@ -6,7 +6,7 @@
 	alert(`Температура по фаренгейту равна ${tempF}`);
 	console.log(tempF);
 
-// 2 
+// 2 - 
 
 let admin = null;
 let name = 'Василий';
